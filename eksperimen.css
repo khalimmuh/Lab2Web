@@ -1,0 +1,44 @@
+nav {
+background: #0c5acf;
+color:#fff;
+padding: 10px;
+}
+nav a {
+color: #fff;
+text-decoration: none;
+padding:10px 20px;
+}
+nav .active, 
+nav a:hover {
+background: #0667d6;
+}
+
+#intro {
+background: url(EFK.jpg);
+border: 1px solid #093492;
+min-height: 400px;
+
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+padding: 10px;
+}
+
+#intro h1 {
+text-align: center;
+border: 0;
+color: rgb(13, 35, 228);
+}
+
+.button {
+ padding: 15px 20px;
+background: #bebcbd;
+color: #fff;
+display: inline-block;
+margin: 10px;
+text-decoration: none;
+}
+.btn-primary {
+background: #E42A42;
+}
+
