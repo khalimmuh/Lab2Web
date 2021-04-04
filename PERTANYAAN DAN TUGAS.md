@@ -9,4 +9,4 @@
 <h2>PERTANYAAN DAN TUGAS</h2>
 <P>1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS 
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.</p>
-<img src="soa1_1.png"width="500">
+![gambar1](screenshoot/SOAL1_1.png)
